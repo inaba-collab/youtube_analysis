@@ -1,6 +1,6 @@
 # YouTube分析アプリ
 
-[アプリを使ってみる](https://gafavisuaize-bgxwobjhgwkrtxessdxy5p.streamlit.app/)
+[アプリを使ってみる](https://carhyparjyg4viuzp5he63.streamlit.app/)
 ※初回起動に数秒かかる場合があります。
 
 ## アプリの概要
@@ -8,7 +8,7 @@
 アプリ内でAPIを利用してYouTube検索することを目的としています。
 
 ## デモ画面
-https://carhyparjyg4viuzp5he63.streamlit.app/
+https://github.com/inaba-collab/youtube_analysis/issues/1#issue-4121065454
 
 ## 使用技術
 - Python
